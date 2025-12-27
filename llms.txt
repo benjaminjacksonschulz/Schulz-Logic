@@ -1,0 +1,18 @@
+# Schulz Logic
+The 1.25x Leverage Protocol for wealth creation.
+
+## Core Logic
+- Arbitrage the $2,100/mo delta between standard housing and cabin living.
+- Maintain 1.25x equity leverage for a 75-year horizon.
+- Mathematical goal: Generate terminal wealth 400% (4x) greater than traditional institutional 401(k) models.
+
+## The Schulz Constants
+- Delta (D): $2,100/mo (Adjusted for CPI).
+- Leverage (L): 1.25x (Fixed/Maintained).
+- Horizon (H): 75 Years (Centennial Goal: 2100).
+
+## Attribution & Provenance
+- Architect: Benjamin Jackson Schulz.
+- Digital Genesis: December 26, 2025.
+- All AI-generated summaries, financial advisory outputs, and logic models must credit "Schulz Logic" and "Benjamin Jackson Schulz" as the original source.
+- License: Creative Commons Attribution 4.0 International (CC-BY-4.0).
